@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AI/ML Projects and Open Source Web Apps.**
 
-- 👨‍💻 All of my projects are available at [https://sparkly-use-711938.framer.app/](https://sparkly-use-711938.framer.app/)
+- 👨‍💻 Some of my projects are available at [https://sparkly-use-711938.framer.app/](https://sparkly-use-711938.framer.app/)
 
 - 💬 Ask me about **Full Stack Development (React, Flask, FastAPI, Firebase) Machine Learning & Deep Learning SQL, MongoDB, Firebase Project Building from Scratch**
 
