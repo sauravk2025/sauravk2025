@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sauravsalvi.77@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fsaurav-krishnan-resume%2etiiny%2esite%2F](https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fsaurav-krishnan-resume%2etiiny%2esite%2F)
+- 📄 Know about my experiences www.linkedin.com/in/saurav-krishnan77
 
 - ⚡ Fun fact **I won an India AI Fellowship worth ₹4 Lakhs, and I think my debugging face looks like I’m solving world peace. 😄**
 
