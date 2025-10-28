@@ -17,7 +17,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://sparkly-use-711938.framer.app/](https://sparkly-use-711938.framer.app/)
 
-- 💬 Ask me about **Full Stack Development (React, Flask, FastAPI, Firebase) Machine Learning & Deep Learning SQL, MongoDB, Firebase Project Building from Scratch**
+- 💬 Ask me about **Full Stack Development (React, Angular Flask, FastAPI, Firebase) Machine Learning & Deep Learning SQL, MongoDB, Firebase Project Building from Scratch**
 
 - 📫 How to reach me **sauravsalvi.77@gmail.com**
 
